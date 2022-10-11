@@ -24,3 +24,4 @@ According to the World Health Organisation a health system consists of all organ
               ![Screenshot (2)](https://user-images.githubusercontent.com/113018370/195061645-098af66c-e3bb-4333-abbf-d1c78f836228.png)
 
               
+![Screenshot (2)](https://user-images.githubusercontent.com/113018370/195062005-a731ea89-9de6-407f-8ec6-bd85f407fe51.png)
