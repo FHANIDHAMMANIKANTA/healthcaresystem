@@ -7,7 +7,7 @@ This is a Informational bot application developoed for education related to give
 
 ##Project title:HEALTHCARESYSTEM
 
-## Project description  :  
+## Project description 😁 :  
 According to the World Health Organisation a health system consists of all organisations, people and actions whose primary intent is to promote, restore or maintain health. This includes efforts to influence determinants of health as well as more direct activities that improve health.
 
 ## Features and functionalities 🧐:
@@ -19,7 +19,7 @@ According to the World Health Organisation a health system consists of all organ
 
 ##About healthcare system:
 
-## Screenshorts:
+## Screenshorts😕:
 ### Home Page ![Home - Google Chrome 10-10-2022 11_56_17](https://user-images.githubusercontent.com/113018370/194808752-cb383913-f862-4b43-85ca-c20790e4884d.png)
               
 
