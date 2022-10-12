@@ -25,9 +25,14 @@ According to the World Health Organisation a health system consists of all organ
 
 ## Gallery Page              
 ![Screenshot (2)](https://user-images.githubusercontent.com/113018370/195062005-a731ea89-9de6-407f-8ec6-bd85f407fe51.png)
-
+### About Page
 ![Screenshot (3)](https://user-images.githubusercontent.com/113018370/195062856-ca227fbb-694d-45b9-bede-93c7d352e80b.png)
-
+## ss page
 ![Screenshot (4)](https://user-images.githubusercontent.com/113018370/195063777-137fa8dc-9728-4474-be69-412ba1a027d8.png)
-
+### About Page
 ![Screenshot (5)](https://user-images.githubusercontent.com/113018370/195064935-a58fab68-ce6e-4e20-b64f-321e896ef0d3.png)
+
+## Languages and Azure services used in my bot:-
+- HTML
+- QnA Maker
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
